@@ -22,10 +22,23 @@ nav li.navigate {
 }
 
 nav li.navigate:hover {
-    background-color: red;
+    background-color: rgb(51, 26, 140)
 }
 
 nav a {
     color: black;
     text-decoration: none;
+}
+
+
+body {
+    background-color: rgb(42, 59, 88);
+}
+
+.white {
+    background-color: white;
+}
+
+table {
+    border-radius: 12px;
 }
